@@ -4,5 +4,5 @@ age = 22
 print (age)
 age = + 1
 print (22 + age)
-isStudent = 'true'
+isStudent = True
 print(bool(isStudent))
